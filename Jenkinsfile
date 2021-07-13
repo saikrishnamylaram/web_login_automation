@@ -1,6 +1,6 @@
 @Library("saikrishnamsk@main") _
 
-pushDockerHub.groovy(
+pushDockerHub(
 ecrRepoName: 'web_login_automation'
 )
 
