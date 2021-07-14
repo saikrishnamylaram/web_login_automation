@@ -1,5 +1,7 @@
 FROM ubuntu:latest
 
+MAINTAINER saikrishnamsk <mylaramsaikrishna@gmail.com>
+
 WORKDIR /usr/apps/hello-docker/
 
 RUN apt-get -y update
