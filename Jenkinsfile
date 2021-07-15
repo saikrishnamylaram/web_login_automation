@@ -1,6 +1,6 @@
 @Library("saikrishnamsk@main") _
 
-pushDockerHub(
+pushEcrRepo(
 ecrRepoName: 'web_login_automation'
 )
 
